@@ -1,1 +1,1 @@
-identidad x = x
+identidad x = x + 1
